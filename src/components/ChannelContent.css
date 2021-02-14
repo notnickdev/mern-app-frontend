@@ -1,0 +1,12 @@
+.channel-content-container {
+  border: 1px solid white;
+  width: 300px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  padding: 5px;
+}
+
+.subscribers-container {
+  border: 1px solid white;
+  width: 100%;
+}
